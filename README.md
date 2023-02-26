@@ -8,7 +8,7 @@ The to-do list program has the following commands:
 
     add: This command allows you to add a new task to your to-do list. When you enter this command, you'll be prompted to enter a description for the task. Once you've entered the description, the task will be added to your list.
 
-    end: This command allows you to mark a task as completed. When you enter this command, you'll be prompted to enter the number of the task you want to end. Once you've entered the number, the task will be marked as completed.
+    end: This command allows you to mark a task as completed. When you enter this command, you'll be prompted to enter the name of the task you want to end. Once you've entered the number, the task will be marked as completed.
 
     clear: This command allows you to remove any completed tasks from your list. When you enter this command, all completed tasks will be removed from your list.
 
